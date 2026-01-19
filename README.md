@@ -22,6 +22,6 @@ This project is a Flask-based machine learning web application that detects whet
 <h3>Usage</h3>
 Enter an SMS message and get instant spam prediction.
 
-<h3>Deployed Link :</h3> https://sms-spam-detection-wwx4.onrender.com \
+<h3>Deployed Link :</h3> https://sms-spam-detection-wwx4.onrender.com<br>
 
 <img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/15bada9a-5a38-4977-8b2f-2947f77f9b57" />
