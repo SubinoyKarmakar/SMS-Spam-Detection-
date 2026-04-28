@@ -34,5 +34,9 @@ def predict():
     except Exception as e:
         return jsonify({"result": "Error", "error": True, "message": str(e)})
 
+@app.route("/ping")
+def ping():
+    return "ok", 200
+    
 if __name__ == "__main__":
     app.run(debug=True)
